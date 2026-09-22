@@ -47,6 +47,9 @@ No student scored below 50, indicating that the dataset contains no critical und
 
 The SQL queries specifically calculate course averages and enrollment counts.
 
+<img width="420" height="507" alt="Screenshot 2026-09-22 at 2 16 55 PM" src="https://github.com/user-attachments/assets/c0d420b3-70cc-4873-8918-ffb7099ea46d" />
+
+
 ## 4. Business/Academic Insights
 
 * **Overall performance is strong**, with an 81.89 average score.
